@@ -18,9 +18,6 @@ Welcome to the Git Repository with Feature Branch! This project demonstrates the
 - **Pull Requests:**
   - Changes made in the Feature1 branch are merged into the Main branch using pull requests.
 
-## Folder Structure
-
-
 ## Git Commands
 
 ### Clone the Repository:
