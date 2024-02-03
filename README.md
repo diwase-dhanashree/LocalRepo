@@ -30,13 +30,17 @@ git clone https://github.com/your-username/your-repository.git
 cd your-repository
 ```
 Create and Switch to a New Branch: git checkout -b feature1
+
 Make Changes and Commit: 
 - Make changes to files
 - git add .
 - git commit -m "Add new feature in feature1 branch"
+  
 Switch to the Main Branch:
 - git checkout main
+  
 Merge Feature1 Branch into Main:
 - git merge feature1
+
 Push Changes to GitHub:
 - git push origin main
