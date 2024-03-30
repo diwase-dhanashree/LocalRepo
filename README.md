@@ -1,6 +1,6 @@
 # Git Repository with Feature Branch
 
-Welcome to the Git Repository with Feature Branch! This project demonstrates the basic Git workflow, including creating a local repository, pushing it to a remote repository on GitHub, and managing branches.
+This project demonstrates the basic Git workflow, including creating a local repository, pushing it to a remote repository on GitHub, and managing branches.
 
 ## Project Overview
 
@@ -8,6 +8,7 @@ Welcome to the Git Repository with Feature Branch! This project demonstrates the
   - The project starts with the creation of a local Git repository on your machine.
 
 - **Remote Repository:**
+  - A Remote Repository is an existing repository on GitHub.
   - The local repository is then pushed to a remote repository on GitHub.
 
 - **Branches:**
@@ -16,6 +17,7 @@ Welcome to the Git Repository with Feature Branch! This project demonstrates the
     - **Feature1 Branch:** A feature branch where additional changes or features are developed.
 
 - **Pull Requests:**
+  - A pull request is a feature in Git-based version control systems, such as GitHub, where users propose changes to a repository hosted on a remote server. 
   - Changes made in the Feature1 branch are merged into the Main branch using pull requests.
 
 ## Git Commands
